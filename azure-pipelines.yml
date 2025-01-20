@@ -18,8 +18,8 @@ variables:
   environmentName: 'akannan1087linux'
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
-
+  vmImageName: 'linuxdev'
+  
 stages:
 - stage: Build
   displayName: Build stage
